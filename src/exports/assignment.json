@@ -1,0 +1,65 @@
+{
+ "mssv": "2A202603216",
+ "ten": "DoHuyKien",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "dohuykien",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000019754.jpg",
+  "000000184224.jpg",
+  "000000201702.jpg",
+  "000000336477.jpg",
+  "000000343057.jpg",
+  "000000122199.jpg",
+  "000000302102.jpg",
+  "000000580257.jpg",
+  "000000311300.jpg",
+  "000000431988.jpg",
+  "000000100510.jpg",
+  "000000326480.jpg"
+ ],
+ "faces": [
+  "face_257657.jpg",
+  "face_300399.jpg",
+  "face_92028.jpg",
+  "face_356144.jpg",
+  "face_79591.jpg",
+  "face_342273.jpg",
+  "face_301643.jpg",
+  "face_41666.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 14,
+   "job_id": 14,
+   "task_name": "persons-DoHuyKien"
+  },
+  "faces": {
+   "task_id": 15,
+   "job_id": 15,
+   "task_name": "faces-DoHuyKien"
+  },
+  "persons-extra": {
+   "task_id": 16,
+   "job_id": 16,
+   "task_name": "persons-extra-DoHuyKien"
+  },
+  "faces-extra": {
+   "task_id": 17,
+   "job_id": 17,
+   "task_name": "faces-extra-DoHuyKien"
+  }
+ },
+ "persons_extra": [
+  "000000065350.jpg",
+  "000000213506.jpg",
+  "000000507223.jpg"
+ ],
+ "faces_extra": [
+  "face_296417.jpg",
+  "face_317330.jpg",
+  "face_379585.jpg",
+  "face_507166.jpg",
+  "face_68290.jpg"
+ ]
+}
